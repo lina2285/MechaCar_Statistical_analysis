@@ -16,3 +16,4 @@ To predict the MPG of MechaCar prototypes a linear regression was performed and 
 Is the slope of the linear model considered to be zero? Why or why not? The slope is note zero because the P-value of the linear regression is 5.35e-11.  Based on this, there isn't enough evidence to reject the null hypothesis. 
 Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not? This model has a 71.49% accuracy, which means there is almost 20% chance that the prediction will not be correct. 
 
+![Linear regression output](https://github.com/lina2285/MechaCar_statistical_analysis/blob/main/R-Analysis/linear%20regression%20output.png)
