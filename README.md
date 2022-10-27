@@ -10,4 +10,4 @@ The manufacturing team incharge of the newest AutosRUs' prototype, the MechaCar,
 3. Run T-tests to compare the manufactoring lots vs the mean population
 
 ## Linear regression to Predict MPG
-To predict the MPG of MechaCar prototypes a linear regression was performed and the code can be found in 
+To predict the MPG of MechaCar prototypes a linear regression was performed and the code can be found in [MechaCarChallenge.R](https://github.com/lina2285/MechaCar_statistical_analysis/blob/main/R-Analysis/MechaCarChallenge.R)
