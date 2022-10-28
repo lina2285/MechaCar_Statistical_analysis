@@ -30,3 +30,8 @@ In this analysis we are reviewing the weight capacities of multiple suspension c
 T-tests were ran to determine the statistical similarities or differences between manufacturing lots.  The results of the test proved that there is very little difference between Lot 1 and 2, but Lot 3 was significantly different. The P-value of Lot 3 is much lower than the assumed significance level. 
 
 ![T-tests](https://github.com/lina2285/MechaCar_statistical_analysis/blob/main/R-Analysis/T_test.png)
+
+## Study Design: MechaCar vs Competition
+
+In order to get more accurate results, a statistical study to compare performance of the MechaCar Vehicles against performance of vehicles from other manufactures. For this study, it is recommended to include metrics such as vehicle_weight, fuel_efficiency, MPG, Vehicle model and maintenace. Additionally, it is recommended to us the one-way ANOVA.
+
