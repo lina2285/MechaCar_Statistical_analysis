@@ -17,3 +17,7 @@ Is the slope of the linear model considered to be zero? Why or why not? The slop
 Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not? This model has a 71.49% accuracy, which means there is almost 20% chance that the prediction will not be correct. 
 
 ![Linear regression output](https://github.com/lina2285/MechaCar_statistical_analysis/blob/main/R-Analysis/linear%20regression%20output.png)
+
+## Summary Statistics on Suspension Coils
+
+In this analysis we are reviewing the weight capacities of multiple suspension coils.  This will help determnine if the manufacturing process is consistent across production lots. Based on the data retrieved and analyzed, we find that the current manufacturing data does not meet the design specifications. Lot 3 from the analysis has a variance over of 170.2861224, which is over the limit. 
