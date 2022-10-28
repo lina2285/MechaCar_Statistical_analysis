@@ -28,3 +28,5 @@ In this analysis we are reviewing the weight capacities of multiple suspension c
 ## T-tests on Suspension Coils
 
 T-tests were ran to determine the statistical similarities or differences between manufacturing lots.  The results of the test proved that there is very little difference between Lot 1 and 2, but Lot 3 was significantly different. The P-value of Lot 3 is much lower than the assumed significance level. 
+
+![T-tests](https://github.com/lina2285/MechaCar_statistical_analysis/blob/main/R-Analysis/T_test.png)
